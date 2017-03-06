@@ -1,0 +1,20 @@
+development:
+   adapter: mysql
+   database: medsite
+   username: root
+   password: blizzardofozz1
+   host: localhost
+  
+test:
+   adapter: mysql
+   database: medsite
+   username: root
+   password: blizzardofozz1
+   host: localhost
+   
+production:
+   adapter: mysql
+   database: medsite
+   username: root
+   password: blizzardofozz1
+   host: localhost
